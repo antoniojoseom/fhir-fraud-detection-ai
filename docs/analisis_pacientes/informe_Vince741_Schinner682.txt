@@ -1,0 +1,1203 @@
+INFORME MÉDICO DETALLADO: Vince741_Schinner682
+==================================================
+1. RECUENTO DE RECURSOS
+   - CarePlan: 4
+   - CareTeam: 4
+   - Claim: 931
+   - Condition: 27
+   - DiagnosticReport: 392
+   - DocumentReference: 250
+   - Encounter: 250
+   - ExplanationOfBenefit: 250
+   - ImagingStudy: 1
+   - Immunization: 11
+   - Medication: 1
+   - MedicationAdministration: 1
+   - MedicationRequest: 681
+   - Observation: 1635
+   - Patient: 1
+   - Procedure: 28
+   - Provenance: 1
+
+2. CRONOLOGÍA ASISTENCIAL
+
+[1935-02-14] Episodio: Revisión
+
+[1950-09-20] Episodio: Revisión
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1950-10-19] Episodio: Revisión
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[1950-12-18] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[1951-09-26] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1952-09-30] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1953-10-06] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1954-10-12] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1955-10-19] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1956-10-24] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1957-10-29] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1958-11-04] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1959-11-10] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1960-11-15] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1961-11-21] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1962-11-27] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1963-12-03] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1964-12-08] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1965-12-14] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1966-12-20] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1967-12-26] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1968-12-31] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1970-01-06] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1971-01-12] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1972-01-18] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1973-01-23] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1974-01-30] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1975-02-04] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1976-02-10] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1976-07-23] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[1976-07-28] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[1977-02-15] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1978-02-21] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1979-02-27] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1979-03-20] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[1980-01-06] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[1980-02-12] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[1980-02-26] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[1980-03-04] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1980-11-04] Episodio: Revisión
+
+[1980-11-27] Episodio: Revisión
+   > MED: N/A | MÉDICO: 9999999979 | DOSIS: N/A
+
+[1981-03-10] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1982-03-16] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1983-03-22] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1984-03-27] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1984-04-10] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[1985-04-02] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1985-11-16] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[1985-12-10] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[1986-04-08] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1987-04-15] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1988-04-20] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1989-04-26] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1990-05-02] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1991-05-08] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1992-05-13] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1992-10-14] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[1993-05-19] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1994-05-07] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[1994-05-25] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1994-12-23] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[1995-05-31] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1996-06-05] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1997-06-11] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1998-06-17] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[1999-06-23] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[2000-06-28] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[2001-07-04] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[2002-07-10] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: Alendronic acid 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[2003-07-16] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[2004-07-21] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[2005-07-27] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[2006-02-14] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2006-08-02] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[2007-08-08] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[2008-08-13] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[2009-01-06] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2009-06-10] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2009-08-19] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[2010-03-02] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2010-07-07] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2010-08-04] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2010-08-25] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[2010-09-01] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2010-12-07] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2011-01-25] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2011-03-08] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2011-04-27] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2011-06-29] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2011-08-31] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[2011-09-28] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2011-10-26] Episodio: Revisión
+
+[2011-11-02] Episodio: Revisión
+
+[2011-12-27] Episodio: Revisión
+
+[2012-01-24] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2012-03-21] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2012-04-25] Episodio: Revisión
+
+[2012-05-23] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2012-06-20] Episodio: Revisión
+
+[2012-07-25] Episodio: Revisión
+
+[2012-08-22] Episodio: Revisión
+
+[2012-09-05] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[2012-10-17] Episodio: Revisión
+
+[2012-10-24] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2012-12-18] Episodio: Revisión
+
+[2013-01-15] Episodio: Revisión
+
+[2013-02-19] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2013-04-17] Episodio: Revisión
+
+[2013-04-24] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2013-05-15] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2013-06-19] Episodio: Revisión
+
+[2013-09-11] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[2013-09-18] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2013-10-16] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2013-11-12] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2013-12-10] Episodio: Revisión
+
+[2014-01-14] Episodio: Revisión
+
+[2014-02-11] Episodio: Revisión
+
+[2014-03-12] Episodio: Revisión
+
+[2014-04-16] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2014-05-14] Episodio: Revisión
+
+[2014-07-09] Episodio: Revisión
+
+[2014-08-13] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2014-09-17] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[2014-10-08] Episodio: Revisión
+
+[2014-10-15] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2014-11-11] Episodio: Revisión
+
+[2014-12-09] Episodio: Revisión
+
+[2015-01-06] Episodio: Revisión
+
+[2015-01-13] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2015-02-03] Episodio: Revisión
+
+[2015-02-10] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2015-03-11] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2015-04-08] Episodio: Revisión
+
+[2015-05-06] Episodio: Revisión
+
+[2015-06-10] Episodio: Revisión
+
+[2015-06-17] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2015-07-08] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2015-08-05] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2015-09-23] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[2015-10-07] Episodio: Revisión
+
+[2015-10-14] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2015-11-03] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2015-12-01] Episodio: Revisión
+
+[2015-12-08] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2016-02-02] Episodio: Revisión
+
+[2016-03-01] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2016-03-30] Episodio: Revisión
+
+[2016-04-06] Episodio: Revisión
+
+[2016-04-13] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2016-04-15] Episodio: Revisión
+
+[2016-04-20] Episodio: Revisión
+
+[2016-04-27] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2016-05-04] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2016-06-01] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2016-06-29] Episodio: Revisión
+
+[2016-07-06] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2016-08-03] Episodio: Revisión
+
+[2016-08-10] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2016-08-31] Episodio: Revisión
+
+[2016-09-28] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[2016-10-05] Episodio: Revisión
+
+[2016-10-26] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2016-11-29] Episodio: Revisión
+
+[2016-12-27] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2017-01-24] Episodio: Revisión
+
+[2017-01-31] Episodio: Revisión
+
+[2017-02-28] Episodio: Revisión
+
+[2017-03-29] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2017-05-24] Episodio: Revisión
+
+[2017-05-31] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2017-06-28] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2017-07-26] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2017-08-23] Episodio: Revisión
+
+[2017-10-04] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[2017-10-25] Episodio: Revisión
+
+[2017-11-01] Episodio: Revisión
+
+[2017-11-21] Episodio: Revisión
+
+[2017-11-28] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2017-12-19] Episodio: Revisión
+
+[2017-12-26] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2018-01-23] Episodio: Revisión
+
+[2018-01-30] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2018-03-17] Episodio: Revisión
+   > MED: Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2018-03-21] Episodio: Revisión
+
+[2018-03-28] Episodio: Revisión
+
+[2018-04-04] Episodio: Revisión
+
+[2018-04-25] Episodio: Revisión
+
+[2018-05-23] Episodio: Revisión
+
+[2018-06-20] Episodio: Revisión
+
+[2018-07-18] Episodio: Revisión
+
+[2018-07-25] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2018-08-15] Episodio: Revisión
+
+[2018-08-22] Episodio: Revisión
+
+[2018-08-29] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2018-09-19] Episodio: Revisión
+
+[2018-09-26] Episodio: Revisión
+
+[2018-10-10] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[2018-10-17] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2018-12-18] Episodio: Revisión
+
+[2019-01-15] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2019-02-12] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2019-03-20] Episodio: Revisión
+
+[2019-03-27] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2019-04-17] Episodio: Revisión
+
+[2019-04-24] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2019-05-15] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2019-06-19] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2019-07-17] Episodio: Revisión
+
+[2019-07-21] Episodio: Revisión
+
+[2019-07-31] Episodio: Revisión
+
+[2019-08-14] Episodio: Revisión
+
+[2019-08-21] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2019-09-11] Episodio: Revisión
+
+[2019-09-18] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2019-10-16] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[2019-10-23] Episodio: Revisión
+
+[2019-10-30] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2019-11-12] Episodio: Revisión
+
+[2019-11-19] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2019-12-10] Episodio: Revisión
+
+[2019-12-17] Episodio: Revisión
+
+[2020-01-04] Episodio: Revisión
+   > MED: Acetaminophen 325 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2020-01-14] Episodio: Revisión
+
+[2020-01-21] Episodio: Revisión
+
+[2020-02-11] Episodio: Revisión
+
+[2020-03-11] Episodio: Revisión
+
+[2020-03-18] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2020-04-08] Episodio: Revisión
+
+[2020-04-15] Episodio: Revisión
+
+[2020-05-13] Episodio: Revisión
+
+[2020-06-10] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2020-07-08] Episodio: Revisión
+
+[2020-07-15] Episodio: Revisión
+
+[2020-08-12] Episodio: Revisión
+
+[2020-08-19] Episodio: Revisión
+
+[2020-09-09] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2020-10-07] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2020-10-21] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999950809 | DOSIS: N/A
+
+[2020-11-03] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2020-12-08] Episodio: Revisión
+
+[2021-01-05] Episodio: Revisión
+
+[2021-02-02] Episodio: Revisión
+   > MED: Naproxen sodium 220 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: Take as needed.
+
+[2021-02-02] Episodio: Revisión
+
+[2021-02-09] Episodio: Revisión
+
+[2021-02-16] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2021-04-07] Episodio: Revisión
+
+[2021-06-02] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+
+[2021-07-07] Episodio: Revisión
+
+[2021-07-14] Episodio: Revisión
+   > MED: insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999979 | DOSIS: N/A

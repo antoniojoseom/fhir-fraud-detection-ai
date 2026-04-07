@@ -1,0 +1,363 @@
+INFORME MÉDICO DETALLADO: Mayola305_Sanford861
+==================================================
+1. RECUENTO DE RECURSOS
+   - CarePlan: 5
+   - CareTeam: 5
+   - Claim: 274
+   - Condition: 13
+   - Device: 1
+   - DiagnosticReport: 105
+   - DocumentReference: 69
+   - Encounter: 69
+   - ExplanationOfBenefit: 69
+   - Immunization: 7
+   - MedicationRequest: 205
+   - Observation: 442
+   - Patient: 1
+   - Procedure: 18
+   - Provenance: 1
+
+2. CRONOLOGÍA ASISTENCIAL
+
+[1920-09-07] Episodio: Revisión
+
+[1948-10-22] Episodio: Revisión
+
+[1963-07-30] Episodio: Revisión
+
+[1963-10-25] Episodio: Revisión
+
+[1970-08-04] Episodio: Revisión
+   > MED: Levothyroxine Sodium 0.075 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+
+[1989-12-15] Episodio: Revisión
+
+[1990-01-05] Episodio: Revisión
+   > MED: Simvastatin 10 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+
+[1991-01-05] Episodio: Revisión
+   > MED: Simvastatin 10 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+
+[1992-01-05] Episodio: Revisión
+   > MED: Simvastatin 10 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+
+[1993-01-04] Episodio: Revisión
+   > MED: Simvastatin 10 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+
+[1994-01-04] Episodio: Revisión
+   > MED: Simvastatin 10 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+
+[1995-01-04] Episodio: Revisión
+   > MED: Simvastatin 10 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+
+[1996-01-04] Episodio: Revisión
+   > MED: Simvastatin 10 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+
+[1997-01-03] Episodio: Revisión
+   > MED: Simvastatin 10 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+
+[1997-01-24] Episodio: Revisión
+   > MED: Clopidogrel 75 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Simvastatin 20 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Amlodipine 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Clopidogrel 75 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Simvastatin 20 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Amlodipine 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+
+[1998-01-03] Episodio: Revisión
+   > MED: Simvastatin 10 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+
+[1998-01-30] Episodio: Revisión
+   > MED: Clopidogrel 75 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Simvastatin 20 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Amlodipine 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+
+[1999-01-03] Episodio: Revisión
+   > MED: Simvastatin 10 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+
+[1999-02-05] Episodio: Revisión
+   > MED: Clopidogrel 75 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Simvastatin 20 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Amlodipine 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+
+[2000-01-03] Episodio: Revisión
+   > MED: Simvastatin 10 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+
+[2000-02-11] Episodio: Revisión
+   > MED: Clopidogrel 75 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Simvastatin 20 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Amlodipine 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+
+[2001-01-02] Episodio: Revisión
+   > MED: Simvastatin 10 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+
+[2001-02-16] Episodio: Revisión
+   > MED: Clopidogrel 75 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Simvastatin 20 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Amlodipine 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+
+[2002-01-02] Episodio: Revisión
+   > MED: Simvastatin 10 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+
+[2002-02-22] Episodio: Revisión
+   > MED: Clopidogrel 75 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Simvastatin 20 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Amlodipine 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+
+[2003-01-02] Episodio: Revisión
+   > MED: Simvastatin 10 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+
+[2003-02-28] Episodio: Revisión
+   > MED: Clopidogrel 75 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Simvastatin 20 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Amlodipine 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+
+[2004-01-02] Episodio: Revisión
+   > MED: Simvastatin 10 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+
+[2004-03-05] Episodio: Revisión
+   > MED: Warfarin Sodium 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Verapamil Hydrochloride 40 MG | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Digoxin 0.125 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Clopidogrel 75 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Verapamil Hydrochloride 40 MG | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Simvastatin 20 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Digoxin 0.125 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Amlodipine 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Warfarin Sodium 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+
+[2004-12-24] Episodio: Revisión
+   > MED: Clopidogrel 75 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+   > MED: Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | MÉDICO: 9999999669 | DOSIS: N/A
+   > MED: Verapamil Hydrochloride 40 MG | MÉDICO: 9999999669 | DOSIS: N/A
+   > MED: Simvastatin 20 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+   > MED: Digoxin 0.125 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+   > MED: Amlodipine 5 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+   > MED: Warfarin Sodium 5 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+
+[2005-01-01] Episodio: Revisión
+   > MED: Simvastatin 10 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+
+[2005-03-11] Episodio: Revisión
+   > MED: Clopidogrel 75 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Verapamil Hydrochloride 40 MG | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Simvastatin 20 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Digoxin 0.125 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Amlodipine 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Warfarin Sodium 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+
+[2006-01-01] Episodio: Revisión
+   > MED: Simvastatin 10 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+
+[2006-03-17] Episodio: Revisión
+   > MED: Clopidogrel 75 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Verapamil Hydrochloride 40 MG | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Simvastatin 20 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Digoxin 0.125 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Amlodipine 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Warfarin Sodium 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+
+[2007-01-01] Episodio: Revisión
+   > MED: Simvastatin 10 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+
+[2007-03-23] Episodio: Revisión
+   > MED: Clopidogrel 75 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Verapamil Hydrochloride 40 MG | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Simvastatin 20 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Digoxin 0.125 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Amlodipine 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Warfarin Sodium 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+
+[2008-01-01] Episodio: Revisión
+   > MED: Simvastatin 10 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+
+[2008-03-28] Episodio: Revisión
+   > MED: Clopidogrel 75 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Verapamil Hydrochloride 40 MG | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Simvastatin 20 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Digoxin 0.125 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Amlodipine 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Warfarin Sodium 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Alendronic acid 10 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+
+[2008-12-31] Episodio: Revisión
+   > MED: Simvastatin 10 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+
+[2009-04-03] Episodio: Revisión
+   > MED: Clopidogrel 75 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Verapamil Hydrochloride 40 MG | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Simvastatin 20 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Digoxin 0.125 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Amlodipine 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Warfarin Sodium 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+
+[2009-12-31] Episodio: Revisión
+   > MED: Simvastatin 10 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+
+[2010-04-09] Episodio: Revisión
+   > MED: Clopidogrel 75 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Verapamil Hydrochloride 40 MG | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Simvastatin 20 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Digoxin 0.125 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Amlodipine 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Warfarin Sodium 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+
+[2010-10-21] Episodio: Revisión
+
+[2010-12-31] Episodio: Revisión
+   > MED: Simvastatin 10 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+
+[2011-04-15] Episodio: Revisión
+   > MED: Clopidogrel 75 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Verapamil Hydrochloride 40 MG | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Simvastatin 20 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Digoxin 0.125 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Amlodipine 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Warfarin Sodium 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+
+[2011-12-31] Episodio: Revisión
+   > MED: Simvastatin 10 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+
+[2012-01-06] Episodio: Revisión
+   > MED: Acetaminophen 325 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+
+[2012-01-13] Episodio: Revisión
+
+[2012-04-20] Episodio: Revisión
+   > MED: Clopidogrel 75 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Verapamil Hydrochloride 40 MG | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Simvastatin 20 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Digoxin 0.125 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Amlodipine 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Warfarin Sodium 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+
+[2012-11-30] Episodio: Revisión
+   > MED: Alteplase 100 MG Injection | MÉDICO: 9999999669 | DOSIS: N/A
+
+[2012-12-30] Episodio: Revisión
+   > MED: Simvastatin 10 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+
+[2013-04-26] Episodio: Revisión
+   > MED: Clopidogrel 75 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Clopidogrel 75 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Verapamil Hydrochloride 40 MG | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Simvastatin 20 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Digoxin 0.125 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Amlodipine 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Warfarin Sodium 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+
+[2013-12-30] Episodio: Revisión
+   > MED: Simvastatin 10 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+
+[2014-05-02] Episodio: Revisión
+   > MED: Clopidogrel 75 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Verapamil Hydrochloride 40 MG | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Simvastatin 20 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Digoxin 0.125 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Amlodipine 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Warfarin Sodium 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+
+[2014-12-30] Episodio: Revisión
+   > MED: Simvastatin 10 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+
+[2015-05-08] Episodio: Revisión
+   > MED: Clopidogrel 75 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Verapamil Hydrochloride 40 MG | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Simvastatin 20 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Digoxin 0.125 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Amlodipine 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Warfarin Sodium 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+
+[2015-12-30] Episodio: Revisión
+   > MED: Simvastatin 10 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+
+[2016-05-13] Episodio: Revisión
+   > MED: Clopidogrel 75 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Verapamil Hydrochloride 40 MG | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Simvastatin 20 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Digoxin 0.125 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Amlodipine 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Warfarin Sodium 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+
+[2016-12-29] Episodio: Revisión
+   > MED: Simvastatin 10 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+
+[2017-04-23] Episodio: Revisión
+
+[2017-05-19] Episodio: Revisión
+   > MED: Clopidogrel 75 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Verapamil Hydrochloride 40 MG | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Simvastatin 20 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Digoxin 0.125 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Amlodipine 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Warfarin Sodium 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+
+[2017-12-29] Episodio: Revisión
+   > MED: Simvastatin 10 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+
+[2018-05-25] Episodio: Revisión
+   > MED: Clopidogrel 75 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Verapamil Hydrochloride 40 MG | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Simvastatin 20 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Digoxin 0.125 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Amlodipine 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Warfarin Sodium 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+
+[2018-12-29] Episodio: Revisión
+   > MED: Simvastatin 10 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+
+[2019-05-31] Episodio: Revisión
+   > MED: Clopidogrel 75 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Verapamil Hydrochloride 40 MG | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Simvastatin 20 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Digoxin 0.125 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Amlodipine 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Warfarin Sodium 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+
+[2019-12-29] Episodio: Revisión
+   > MED: Simvastatin 10 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+
+[2020-06-05] Episodio: Revisión
+   > MED: Clopidogrel 75 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Verapamil Hydrochloride 40 MG | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Simvastatin 20 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Digoxin 0.125 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Amlodipine 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Warfarin Sodium 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+
+[2020-12-28] Episodio: Revisión
+   > MED: Simvastatin 10 MG Oral Tablet | MÉDICO: 9999999669 | DOSIS: N/A
+
+[2021-06-11] Episodio: Revisión
+   > MED: Clopidogrel 75 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Verapamil Hydrochloride 40 MG | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Simvastatin 20 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Digoxin 0.125 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Amlodipine 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A
+   > MED: Warfarin Sodium 5 MG Oral Tablet | MÉDICO: 9999910659 | DOSIS: N/A

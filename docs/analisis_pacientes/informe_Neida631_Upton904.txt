@@ -1,0 +1,441 @@
+INFORME MÉDICO DETALLADO: Neida631_Upton904
+==================================================
+1. RECUENTO DE RECURSOS
+   - CarePlan: 7
+   - CareTeam: 7
+   - Claim: 324
+   - Condition: 15
+   - DiagnosticReport: 104
+   - DocumentReference: 97
+   - Encounter: 97
+   - ExplanationOfBenefit: 97
+   - ImagingStudy: 1
+   - Immunization: 11
+   - MedicationRequest: 227
+   - Observation: 134
+   - Patient: 1
+   - Procedure: 11
+   - Provenance: 1
+
+2. CRONOLOGÍA ASISTENCIAL
+
+[1941-07-14] Episodio: Revisión
+
+[1941-09-22] Episodio: Revisión
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1941-10-22] Episodio: Revisión
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999839 | DOSIS: N/A
+
+[1941-12-21] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999839 | DOSIS: N/A
+
+[1942-09-28] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1943-06-21] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999839 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999839 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999839 | DOSIS: N/A
+
+[1943-10-04] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1944-10-09] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999839 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999839 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999839 | DOSIS: N/A
+
+[1945-10-15] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1946-10-21] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1947-10-27] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1948-05-03] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999839 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999839 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999839 | DOSIS: N/A
+
+[1948-11-01] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999839 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999839 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999839 | DOSIS: N/A
+
+[1949-11-07] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1950-11-13] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1951-11-19] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1952-11-24] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1953-11-30] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1954-12-06] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1955-12-12] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1956-12-17] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1957-07-21] Episodio: Revisión
+   > MED: Naproxen sodium 220 MG Oral Tablet | MÉDICO: 9999999839 | DOSIS: Take as needed.
+
+[1957-12-23] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1958-12-29] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1960-01-04] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1961-01-09] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1962-01-15] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1963-01-21] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1964-01-27] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1965-02-01] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1966-02-07] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1967-02-13] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1968-02-19] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1969-02-24] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1970-03-02] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1971-03-08] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1972-03-13] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1973-03-19] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1974-03-25] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1975-03-31] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1976-04-05] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1977-04-11] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1978-04-17] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1979-04-23] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1980-04-28] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1981-05-04] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1982-05-10] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999839 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999839 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999839 | DOSIS: N/A
+
+[1983-05-16] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1984-05-21] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1985-05-27] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1986-06-02] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1987-06-08] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1988-06-13] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1989-06-19] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1990-06-25] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1991-07-01] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1992-07-06] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1993-07-12] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1994-07-18] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1994-12-12] Episodio: Revisión
+
+[1995-07-24] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1996-07-29] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1997-08-04] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1998-08-10] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[1999-08-16] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[2000-08-21] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[2001-08-27] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: Donepezil hydrochloride 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[2002-08-04] Episodio: Revisión
+   > MED: Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | MÉDICO: 9999999839 | DOSIS: N/A
+
+[2002-08-05] Episodio: Revisión
+
+[2002-08-12] Episodio: Revisión
+
+[2002-09-02] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[2003-07-18] Episodio: Revisión
+   > MED: Donepezil hydrochloride 23 MG Oral Tablet | MÉDICO: 9999999839 | DOSIS: N/A
+
+[2003-07-23] Episodio: Revisión
+
+[2003-09-08] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[2004-08-16] Episodio: Revisión
+
+[2004-09-13] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[2005-04-08] Episodio: Revisión
+
+[2005-09-19] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[2006-03-25] Episodio: Revisión
+
+[2006-03-27] Episodio: Revisión
+   > MED: Acetaminophen 325 MG Oral Tablet | MÉDICO: 9999999839 | DOSIS: N/A
+
+[2006-04-10] Episodio: Revisión
+
+[2006-04-17] Episodio: Revisión
+
+[2006-09-25] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[2007-05-28] Episodio: Revisión
+
+[2007-08-27] Episodio: Revisión
+   > MED: Ibuprofen 200 MG Oral Tablet | MÉDICO: 9999999839 | DOSIS: Take as needed.
+
+[2007-10-01] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[2008-10-06] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[2009-10-11] Episodio: Revisión
+   > MED: Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | MÉDICO: 9999999839 | DOSIS: N/A
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999839 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999839 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999839 | DOSIS: N/A
+
+[2009-10-12] Episodio: Revisión
+
+[2009-10-19] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999999839 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999999839 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999999839 | DOSIS: N/A
+
+[2010-07-03] Episodio: Revisión
+   > MED: Acetaminophen 325 MG Oral Tablet | MÉDICO: 9999999839 | DOSIS: Take as needed.
+
+[2010-08-02] Episodio: Revisión
+
+[2010-10-18] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[2011-06-28] Episodio: Revisión
+
+[2011-10-24] Episodio: Revisión
+   > MED: Hydrochlorothiazide 25 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: lisinopril 10 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+   > MED: amLODIPine 2.5 MG Oral Tablet | MÉDICO: 9999956809 | DOSIS: N/A
+
+[2012-02-01] Episodio: Revisión
+
+[2012-02-13] Episodio: Revisión

@@ -1,0 +1,84 @@
+--- RESUMEN DE AUDITORÍA (10 PACIENTES) ---
+
+PACIENTE: Adolfo777 Yost751
+  - Total recetas: 641
+  - Médicos diferentes que han recetado: 2
+  - Top 3 medicamentos más recetados:
+    * lisinopril 10 MG Oral Tablet: 197 veces
+    * amLODIPine 2.5 MG Oral Tablet: 197 veces
+    * 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet: 195 veces
+----------------------------------------
+PACIENTE: Alvaro283 Altenwerth646
+  - Total recetas: 299
+  - Médicos diferentes que han recetado: 3
+  - Top 3 medicamentos más recetados:
+    * lisinopril 10 MG Oral Tablet: 79 veces
+    * amLODIPine 2.5 MG Oral Tablet: 79 veces
+    * Warfarin Sodium 5 MG Oral Tablet: 23 veces
+----------------------------------------
+PACIENTE: Mayola305 Sanford861
+  - Total recetas: 205
+  - Médicos diferentes que han recetado: 2
+  - Top 3 medicamentos más recetados:
+    * Simvastatin 10 MG Oral Tablet: 32 veces
+    * Clopidogrel 75 MG Oral Tablet: 28 veces
+    * Simvastatin 20 MG Oral Tablet: 27 veces
+----------------------------------------
+PACIENTE: Melinda114 Rodriguez71
+  - Total recetas: 1279
+  - Médicos diferentes que han recetado: 2
+  - Top 3 medicamentos más recetados:
+    * lisinopril 10 MG Oral Tablet: 267 veces
+    * amLODIPine 2.5 MG Oral Tablet: 267 veces
+    * Hydrochlorothiazide 25 MG Oral Tablet: 267 veces
+----------------------------------------
+PACIENTE: Neida631 Upton904
+  - Total recetas: 227
+  - Médicos diferentes que han recetado: 2
+  - Top 3 medicamentos más recetados:
+    * lisinopril 10 MG Oral Tablet: 73 veces
+    * amLODIPine 2.5 MG Oral Tablet: 73 veces
+    * Hydrochlorothiazide 25 MG Oral Tablet: 73 veces
+----------------------------------------
+PACIENTE: Oswaldo857 Leffler128
+  - Total recetas: 939
+  - Médicos diferentes que han recetado: 2
+  - Top 3 medicamentos más recetados:
+    * Hydrochlorothiazide 25 MG Oral Tablet: 312 veces
+    * amLODIPine 2.5 MG Oral Tablet: 312 veces
+    * insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin]: 305 veces
+----------------------------------------
+PACIENTE: Roman389 Raynor401
+  - Total recetas: 278
+  - Médicos diferentes que han recetado: 2
+  - Top 3 medicamentos más recetados:
+    * amLODIPine 2.5 MG Oral Tablet: 69 veces
+    * lisinopril 10 MG Oral Tablet: 69 veces
+    * 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet: 47 veces
+----------------------------------------
+PACIENTE: Thaddeus38 Zulauf375
+  - Total recetas: 220
+  - Médicos diferentes que han recetado: 2
+  - Top 3 medicamentos más recetados:
+    * Hydrochlorothiazide 25 MG Oral Tablet: 78 veces
+    * Simvastatin 10 MG Oral Tablet: 43 veces
+    * Warfarin Sodium 5 MG Oral Tablet: 22 veces
+----------------------------------------
+PACIENTE: Vince741 Schinner682
+  - Total recetas: 681
+  - Médicos diferentes que han recetado: 2
+  - Top 3 medicamentos más recetados:
+    * lisinopril 10 MG Oral Tablet: 154 veces
+    * amLODIPine 2.5 MG Oral Tablet: 154 veces
+    * Hydrochlorothiazide 25 MG Oral Tablet: 154 veces
+----------------------------------------
+PACIENTE: Wilbert25 Ward668
+  - Total recetas: 1373
+  - Médicos diferentes que han recetado: 3
+  - Top 3 medicamentos más recetados:
+    * 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet: 272 veces
+    * amLODIPine 2.5 MG Oral Tablet: 271 veces
+    * Warfarin Sodium 5 MG Oral Tablet: 236 veces
+----------------------------------------
+
+--- ANÁLISIS FINALIZADO ---

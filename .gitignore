@@ -217,6 +217,7 @@ fase1_estudio_preliminar_synthea/docs/medication_request_dataset.jsonl
 *.ndjson
 *.ndjson.gz
 *.jsonl
+!data/sample.jsonl
 
 # Ignorar archivos temporales o borradores de texto
 *.txt

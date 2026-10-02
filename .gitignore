@@ -216,6 +216,7 @@ fase1_estudio_preliminar_synthea/docs/medication_request_dataset.jsonl
 # Ignorar todos los datasets en crudo de MIMIC-IV (descomprimidos y comprimidos)
 *.ndjson
 *.ndjson.gz
+*.jsonl
 
 # Ignorar archivos temporales o borradores de texto
 *.txt
